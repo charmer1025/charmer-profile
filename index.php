@@ -59,8 +59,8 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-      <h1>John Smith</h1>
-      <p>I'm <span class="typed" data-typed-items="Senior Web Developer"></span></p>
+      <h1>Dealton Robinson</h1>
+      <p>I'm <span class="typed" data-typed-items="Experienced Web Developer"></span></p>
     </div>
   </section>
 
@@ -72,11 +72,9 @@
 
         <div class="section-title">
           <h2>Summary</h2>
-          <p>I am a full stack developer who specializes in web development, looking for exciting
-projects and new opportunities. Expert Web Front-End Developer ready to take on your project. You
-deserve a website that is built with security, responsiveness, functionality, and efficiency in mind.
-Over the last 10+ years, I have worked in all kinds of projects and I am able to build a web application from scratch very fast and with great efficiency or continue working on existing code with
-ease.</p>
+          <p>I am a full stack developer who specializes in web development, looking for exciting projects and new opportunities. 
+Over the last 8+ years, I have worked in all kinds of projects and I am able to build a web application from scratch very fast and with great efficiency or continue working on existing code with ease.
+<b>Success in life is a matter not so much of talent and opportunity as of concentration and perseverance.</b></p>
         </div>
 
         <div class="row">
@@ -84,14 +82,14 @@ ease.</p>
             <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-            <h3>Senior Web Developer.</h3>
+            <h3>Experienced Web Developer.</h3>
             <div class="row">
               <div class="col-lg-6">
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>25 Oct 1994</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>https://charmer-profile.herokuapp.com/</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+1 903 704 0650</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>San Francisco, USA</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Address:</strong> <span>Round Rock, TX 78665</span></li>
                 </ul>
               </div>
               <div class="col-lg-6">
@@ -239,13 +237,13 @@ experience, along with links to websites and applications I’ve had the honor o
           <div class="col-lg-6" data-aos="fade-up">
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
-              <h4>Full Stack Web Development</h4>
+              <h4>Bachelor of software development</h4>
               <h5>2011 - 2014</h5>
-              <p><em>Holberton - San Francisco, CA</em></p>
+              <p><em>University of Houston-Clear LakeHouston, TX</em></p>
             </div>
             <div class="resume-item">
               <h4>High School Diploma</h4>
-              <h5>2014 - 2015</h5>
+              <h5>2014 - 2016</h5>
               <p><em>Granite Hills High School - El Cajon, CA</em></p>
             </div>
           </div>
@@ -472,7 +470,7 @@ was also created to easily manage contests.</li>
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>San Francisco, CA 94105</p>
+                <p>Round Rock, TX 78665</p>
               </div>
             </div>
           </div>
