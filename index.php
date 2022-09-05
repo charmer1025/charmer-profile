@@ -40,7 +40,7 @@
 
       <div class="profile">
         <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
-        <h1 class="text-light"><a href="index.html">John Smith</a></h1>
+        <h1 class="text-light"><a href="index.html">Dealton Robinson</a></h1>
       </div>
 
       <nav id="navbar" class="nav-menu navbar">
@@ -74,7 +74,7 @@
           <h2>Summary</h2>
           <p>I am a full stack developer who specializes in web development, looking for exciting projects and new opportunities. 
 Over the last 8+ years, I have worked in all kinds of projects and I am able to build a web application from scratch very fast and with great efficiency or continue working on existing code with ease.
-<b>Success in life is a matter not so much of talent and opportunity as of concentration and perseverance.</b></p>
+<br><b><i>Success in life is a matter not so much of talent and opportunity as of concentration and perseverance.</i></b></p>
         </div>
 
         <div class="row">
